@@ -1,2 +1,2 @@
-# calculadora-basica-js-vanilla
-Calculadora basica realizada con JavaScript vanilla  
+# calculadora-basica-js
+Calculadora basica realizada con JavaScript
